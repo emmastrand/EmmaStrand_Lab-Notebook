@@ -5,13 +5,7 @@ email: emma_strand@uri.edu
 description: Feel free to explore my projects and contact me for more information. 
 baseurl: "/EmmaStrand_Lab-Notebook" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
+
 
 # Social settings
 500px_url:
