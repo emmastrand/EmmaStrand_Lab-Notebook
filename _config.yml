@@ -2,7 +2,7 @@
 title: Emma Strand
 subtitle: Lab Notebook
 email: emma_strand@uri.edu
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+description: Feel free to explore my projects and contact me for more information. 
 baseurl: "/EmmaStrand_Lab-Notebook" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -16,14 +16,14 @@ phone: (716) 555-5555
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/emmastrand
+gitlab_url: https://github.com/Putnam-Lab
+googleplus_url:
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/emma-strand-b92b3a135/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/EmmaStrand4
 
 # Build settings
 markdown: kramdown
